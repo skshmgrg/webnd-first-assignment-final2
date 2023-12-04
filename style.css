@@ -1,0 +1,53 @@
+body{
+    background-color:purple;
+}
+div{
+    background-color: yellow;
+}
+#div1{
+    width: 500px;
+    height: 80px;
+    
+}
+#div2{
+    width: 80px;
+    height: 400px;
+    
+}
+#div3{
+    width: 1200px;
+    height: 80px;
+    
+}
+#div4{
+    width: 80px;
+    height: 480px;
+    margin-left: 1000px;
+    position: relative;
+    bottom: 480px;
+    left:180px;
+}
+#div5{
+    width: 500px;
+    height: 80px;
+    position: absolute;
+    left: 768px;
+    top:10px;
+
+}
+#div6{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 450px;
+    top:  300px;
+}
+#div7{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 450px;
+    top:  300px;
+
+}
+    
